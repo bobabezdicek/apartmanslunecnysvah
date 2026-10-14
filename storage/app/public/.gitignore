@@ -1,0 +1,15 @@
+*
+!.gitignore
+!lovable/
+lovable/*
+!lovable/01-exterior-summer-hero.jpg
+!lovable/02-courtyard-exterior.png
+!lovable/03-living-kitchen-wide.png
+!lovable/04-living-room.png
+!lovable/05-bedroom.jpg
+!lovable/06-bathroom.png
+!lovable/07-garden-view.png
+!lovable/08-terrace-view.png
+!lovable/valley-summer.jpg
+!lovable/slopes-winter.jpg
+!lovable/medvedin.jpg
